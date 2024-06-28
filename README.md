@@ -1,16 +1,18 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_fr.svg"></img>
 
-### &nbsp; 🕵🏻 About Me
+### &nbsp; 🕵🏻 A propos de moi 
 
-&nbsp;&nbsp; A seasoned professional with a robust background in software engineering and full-stack development, complemented by specialized expertise in blockchain technology. <br>&nbsp;&nbsp; I am adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>With a deep understanding of both front-end and back-end paradigms, I excel in crafting comprehensive applications that meet modern business needs. <br>&nbsp;&nbsp; As a blockchain expert, I bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in distributed ledger technologies.<br><br>
+Scientifique de formation, passionnée par la résolution de problèmes, j’ai décidé d’évoluer vers le rôle de Data Analyst. <br>Ma capacité à préparer, explorer et modéliser les données me permettra de fournir des recommandations précieuses pour la prise de décisions stratégiques au sein de votre entreprise. <br><br>
 
 <hr/>
 
-### &nbsp; 🌟 STRENGTH
-&nbsp;&nbsp;&nbsp;🔹 Advanced proficiency in a wide range of programming languages and frameworks.<br>
-&nbsp;&nbsp;&nbsp;🔹 Extensive experience in system architecture, microservices, and cloud computing.<br>
-&nbsp;&nbsp;&nbsp;🔹 Proven ability to lead and mentor teams in agile and fast-paced environments.<br>
-&nbsp;&nbsp;&nbsp;🔹 Strategic implementation of blockchain solutions to enhance business processes and security.<br><br>
+### &nbsp; 🌟 Mes points forts
+&nbsp;&nbsp;&nbsp;🔹 Capacité d'adaptation pour développer de nouvelles compétences.<br>
+&nbsp;&nbsp;&nbsp;🔹 Appétence pour les études et la recherche.<br>
+&nbsp;&nbsp;&nbsp;🔹 Maîtrise des outils d'analyse de données et des plateformes de visualisation .<br>
+&nbsp;&nbsp;&nbsp;🔹 Pensée critique et résolution de problèmes.<br>
+&nbsp;&nbsp;&nbsp;🔹Capacité à diriger et encadrer des équipes .<br>
+
 
 <hr/>
 
