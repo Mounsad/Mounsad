@@ -1,6 +1,6 @@
 <img src="images/svg/header_fr.svg"></img>
 
-### &nbsp; 🕵🏻 A propos de moi 
+### &nbsp; 🕵️‍♀️ A propos de moi 
 
 Scientifique de formation, passionnée par la résolution de problèmes, j’ai décidé d’évoluer vers le rôle de Data Analyst. <br>Ma capacité à préparer, explorer et modéliser les données me permettra de fournir des recommandations précieuses pour la prise de décisions stratégiques au sein de votre entreprise. <br><br>
 
